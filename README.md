@@ -31,6 +31,10 @@ A reusable React.js library that simplifies component creation and enhances prod
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sangeetha-mck)
 - GitHub: [SangeethaMCK](https://github.com/SangeethaMCK)
 
+## 📊 GitHub Stats
+![Sangeetha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SangeethaMCK&show_icons=true&theme=radical)
+
+
 ## 🌟 Let's Connect!
 
 I'm always open to discussing new projects, collaboration opportunities, or any interesting ideas you might have. Feel free to reach out!
