@@ -8,7 +8,7 @@ I'm a passionate software developer with a strong background in web development 
 - **Frontend**: React.js, Vue.js
 - **Backend**: Node.js, Express.js
 - **Databases**: MongoDB, PostgreSQL, MySQL
-- **Tools**: Git, Docker, Vite, Socket.IO
+- **Tools**: Git, Vite, Socket.IO
 - **Others**: REST APIs, NPM, CSS
 
 ## 🚀 Projects
