@@ -28,7 +28,7 @@ A reusable React.js library that simplifies component creation and enhances prod
 ## 📫 How to Reach Me
 
 - Email: [sangeeksd0509@gmail.com](mailto:sangeeksd0509@gmail.com)
-- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/sangeetha-m-c-k-a2299727a)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sangeetha-m-c-k-a2299727a)
 - GitHub: [SangeethaMCK](https://github.com/SangeethaMCK)
 
 
